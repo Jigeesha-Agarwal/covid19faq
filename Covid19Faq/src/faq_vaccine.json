@@ -1,0 +1,157 @@
+[
+    {
+        "id": 33,
+        "question": "Where should I register for the vaccination?",
+        "answer": "Register on the Co-WIN Portal and schedule your vaccination appointment. https://www.cowin.gov.in/home"
+      },
+    {
+        "id": 34,
+        "question": "Where can I get the vaccine from?",
+        "answer": "Vaccines are available from Government and Private Health Facilities as notified, known as COVID Vaccination Centres (CVCs)"
+      },
+    {
+        "id": 35,
+        "question": "How do I pre-register myself online for an appointment for vaccination?",
+        "answer": "Online registration and appointment can be done through Co-WIN portal. You will have to give some basic information about yourself and details of your photo identification card to get yourself registered online. From one mobile phone number, one can register 4 people, however, each person will need their own photo identification document. If Aadhar card is used as identification document, consent will be obtained and recorded. Through the portal, you can find out the list of available CVCs and dates and time of available vaccination slots, to book an appointment as per your choice. You will need an OTP verification prior to registration and a confirmation slip/token will be generated after registration. You will also get a confirmatory sms later. For all Private Hospitals, prior registration and appointment will be the only method of registration. For Government hospitals, a proportion of slots will be available for online registration and appointment, the rest will be kept for on site registration and vaccination. Appointments for any date for a Vaccination Center will be closed at 12:00 pm on the day prior to the date."
+      },
+    {
+        "id": 36,
+        "question": "Can a person get the COVID-19 vaccine without registration with Health Department?",
+        "answer": "No, the registration of beneficiary is mandatory for vaccination for COVID-19 vaccine. Once registered, notification and information about the vaccine session date and time will be shared with the beneficiary. There will be a provision for walk-in to vaccination centres but they too would need to register on site before vaccination."
+      },
+    {
+        "id": 37,
+        "question": "What documents are required for registration of eligible beneficiary?",
+        "answer": "Any of the mentioned ID with Photo may be produced at the time of registration: Aadhaar Card, Driving License, Health Insurance Smart Card issued under the scheme of Ministry of Labour, Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) Job Card, Official identity cards issued to MPs/MLAs/MLCs, PAN Card, Passbooks issued by Bank/Post Office, Passport, Pension Document, Service Identity Card issued to employees by Central/ State Govt./ Public Limited Companies, Voter ID  People with comorbidities will have to carry the certificate of comorbidities, in the format shared here by a registered medical practitioner."
+      },
+    {
+        "id": 38,
+        "question": "Will I get any certificate that I am vaccinated?",
+        "answer": "Yes, a provisional certificate would be provided after the first dose. On completion of second dose, when you receive the message for completion of schedule it would include a link to download digital certificate of vaccination for your perusal. This certificate can be then be saved in the digi-locker."
+      },
+    {
+        "id": 39,
+        "question": "Which COVID-19 vaccines are licensed in India?",
+        "answer": "Two vaccines that have been granted emergency use authorization by the Central Drugs Standard Control Organization (CDSCO) in India are Covishield® (AstraZeneca's vaccine manufactured by Serum Institute of India) and Covaxin® (manufactured by Bharat Biotech Limited)."
+      },
+    {
+        "id": 40,
+        "question": "Have the vaccines undergone the needed clinical trials before EUA?",
+        "answer": "Both the Indian COVID-19 vaccines have completed their Phase I & II trials. Covishield® has completed its Phase III trials in UK and the bridging trial in India."
+      },
+    {
+        "id": 41,
+        "question": "Why vaccination is not provided to children who are usual target?",
+        "answer": "COVID-19 affects all age groups; however, morbidity & mortality is several times higher in adults particularly in those above the age of 50 years. Children have either asymptomatic or mild infection. The general practice is to first evaluate any new vaccine in older population and then age reduction is done to assess the safety and effectiveness in paediatric population. The currently available vaccines have not been evaluated in children so far. There are some clinical trials now underway to test the effectiveness and safety of the COVID-19 vaccines in children."
+      },
+    {
+        "id": 42,
+        "question": "If I have received vaccine as a health worker, how will my family members receive the vaccine (as they are exposed as well)?",
+        "answer": "The people at highest risk of exposure such as health care and frontline workers will receive the vaccine on priority. These personnel are also likely source of infection of their family members. Other family members will be vaccinated according to the age specific prioritization by the Government of India."
+      },
+    {
+        "id": 43,
+        "question": "What is the dose schedule of both the vaccines?",
+        "answer": "The time interval between two doses of the Covishield vaccine has been extended from four-six weeks to four-eight weeks. The second dose of Covaxin can be taken four to six weeks after the first."
+      },
+    {
+        "id": 44,
+        "question": "Do I have a choice of vaccine I will receive?",
+        "answer": "The vaccine will be supplied to various parts of India as per availability and distribution plan, beneficiaries load and so at present the option of choice of vaccine is not available."
+      },
+    {
+        "id": 45,
+        "question": "Is it mandatory to take the vaccine?",
+        "answer": "Vaccination for COVID-19 is voluntary. However, it is advisable to receive the complete schedule of COVID-19 vaccine for protecting oneself against this disease and also to limit the spread of this disease to the close contacts including family members, friends, relatives and co-workers"
+      },
+    {
+        "id": 46,
+        "question": "Will the vaccine be safe as it is being tested and introduced in a short span of time?",
+        "answer": "Vaccines will be introduced in the country only after the regulatory bodies clear it based on its safety and efficacy."
+      },
+    {
+        "id": 47,
+        "question": "Will the vaccine introduced in India be as effective as the ones introduced in other countries?",
+        "answer": "Yes, the COVID-19 vaccine introduced in India will be as effective as any vaccine developed by other countries. Various phases of vaccine trials are undertaken to ensure its safety and efficacy."
+      },
+    {
+        "id": 48,
+        "question": "Will COVID-19 vaccine be given to everyone simultaneously?",
+        "answer": "Based on the potential availability of vaccines the Government of India has selected the priority groups who will be vaccinated on priority as they are at higher risk. The first group includes healthcare and frontline workers. The second group to receive COVID-19 vaccine will be persons over 60 years of age and persons between 45 and 59 years of age with comorbid conditions."
+      },
+    {
+        "id": 49,
+        "question": "Can a person presently having COVID-19 (confirmed or suspected) infection be vaccinated?",
+        "answer": "Person with confirmed or suspected COVID-19 infection may increase the risk of spreading the same to others at vaccination site. For this reason, infected individuals should defer vaccination for 14 days after symptoms resolution."
+      },
+    {
+        "id": 50,
+        "question": "Is it necessary for a COVID-19 recovered person to take the vaccine? And if I had COVID-19 infection and was treated, why should I receive the vaccine?",
+        "answer": "Yes, it is advisable to receive complete schedule of COVID-19 vaccine irrespective of past history of infection with COVID-19. This will help in developing a strong immune response against the disease. Development of immunity or duration of protection after COVID-19 exposure is not established therefore it is recommended to receive vaccine even after COVID-19 infection. Wait for 4-8 weeks after recovery from COVID symptoms before getting the vaccine."
+      },
+    {
+        "id": 51,
+        "question": "Out of the multiple vaccines available, how is one or more vaccine chosen for administration?",
+        "answer": "The safety and efficacy data from clinical trials of vaccine candidates are examined by Drug regulator of our country before granting the license for the same. Hence, all the COVID-19 vaccines that receive license will have comparable safety and efficacy. However, it must be ensured that the entire schedule of vaccination is completed by only one type of vaccine as different COVID-19 vaccines are not interchangeable."
+      },
+    {
+        "id": 52,
+        "question": "Are there any preventive measures and precautions that one needs to follow at the session site?",
+        "answer": "We request you to rest at the vaccination centre for atleast half an hour after taking the COVID-19 vaccine. Inform the nearest health authorities/ANM/ASHA in case you feel any discomfort or uneasiness subsequently. Remember to continue following key COVID-19 Appropriate Behaviours like wearing of mask, maintaining hand sanitization and physical distance (or 6 feet or Do Gaj)."
+      },
+    {
+        "id": 53,
+        "question": "Which vaccine is better between Covisheild and Covaxin?",
+        "answer": "There is no head-to-head comparison done between the two vaccines being used in India so one cannot choose one over the other. Both would work fine in preventing the infection as well as prevent a person from going into severe state of the disease. As a long-term effect, it would be preventing death for elderly people or those who have comorbidities."
+      },
+    {
+        "id": 54,
+        "question": "What medications should be avoided before taking COVID-19 vaccine and for how long?",
+        "answer": "Currently, there is no such instruction. One can take one’s regular medication uninterruptedly. Just inform the vaccinator about the medicines you consume."
+      },
+    {
+        "id": 55,
+        "question": "Is the vaccine contraindicated in person with chronic diseases?",
+        "answer": "Chronic diseases and morbidities like the cardiac, neurological, pulmonary, metabolic, renal and malignancies etc. are not contraindicated. In fact, the benefit of COVID-19 vaccines to reduce the risk of severe COVID-19 disease and death is for those who have these comorbidities."
+      },
+    {
+        "id": 56,
+        "question": "If one is taking medicines for illnesses like Cancer, Diabetes, Hypertension etc, can she take the COVID-19 vaccine and/or If I suffer from HTN/DM/CKD/heart disease/lipid disorders etc., can I safely take this vaccine?",
+        "answer": "Yes, persons with one or more of these comorbid conditions are considered among the high risk category. They need to get COVID-19 vaccination. Overall, the vaccine is safe and efficacious in adults with comorbidity. The maximum benefit of getting the COVID-19 vaccine is for those who have such co-morbidities. However, if you are concerned for any specific reason, please consult your doctor."
+      },
+    {
+        "id": 57,
+        "question": "Do I need to use the mask/other COVID-19 appropriate precautions after receiving the vaccine?",
+        "answer": "Yes, it is absolutely necessary that everyone who has received the COVID-19 vaccine should continue to follow the COVID-19 appropriate behaviour i.e., mask, do gaj ki doori and hand sanitization to protect themselves and those around from spreading the infection."
+      },
+    {
+        "id": 58,
+        "question": "How long I will remain protected after vaccination?",
+        "answer": "Longevity of the immune response in vaccinated individuals is yet to be determined. Hence, continuing the use of masks, handwashing, physical distancing and other COVID-19 appropriate behaviours is strongly recommended."
+      },
+    {
+        "id": 59,
+        "question": "Does vaccination protect me against newer strains / mutated virus of SARS-CoV 2?",
+        "answer": "The body responds to vaccination by making more than one type of antibodies to virus parts including spike protein. Therefore, all vaccines are expected to provide reasonable amount of protection against the mutated virus also. Based on the available data the mutations as reported are unlikely to make the vaccine ineffective."
+      },
+    {
+        "id": 60,
+        "question": "In how many days will the vaccination create an adequate immune response and protection?",
+        "answer": "Adequate immune response takes 2-3 weeks after completion of entire vaccination schedule i.e., after the second dose of COVISHIELD and COVAXIN."
+      },
+    {
+        "id": 61,
+        "question": "Should you avoid alcohol after receiving the COVID-19 vaccine?",
+        "answer": "As per experts, there is no evidence of alcohol impairing the effectiveness of the vaccine."
+      },
+    {
+        "id": 62,
+        "question": "What precautions I need to take after receiving the vaccine?",
+        "answer": "Both the vaccines are safe but in case of any discomfort or complaint, ask the beneficiary to visit the nearest health facility and/or call the health worker whose phone number is given in the Co-WIN SMS received after vaccination."
+      },
+    {
+        "id": 63,
+        "question": "Is it important for me to receive the same vaccine during second dose?",
+        "answer": "As the vaccines available are not interchangeable, it is important to receive the second dose of same vaccine as the first one. The Co-WIN portal is also going to help to ensure that everyone receives the same vaccine."
+      }
+]

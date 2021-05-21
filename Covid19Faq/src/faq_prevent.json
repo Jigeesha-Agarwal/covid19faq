@@ -1,0 +1,30 @@
+[
+    {
+    "id": 7,
+    "question": "How can I protect myself?",
+    "answer": "You can protect yourself by wearing a mask, staying 6 feet away from each other, getting vaccinated, avoiding crowds and poorly ventilated spaces, often washing your hands, monitoring your health daily."
+  },
+  {
+    "id": 8,
+    "question": "Am I at risk for Covid-19 from mail, packages, or products?",
+    "answer": "Coronaviruses are thought to be spread most often by respiratory droplets. Although the virus can survive for a short period on some surfaces, it is unlikely to be spread from domestic or international mail, products, or packaging. However, it may be possible that people can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads."
+  },
+  {
+    "id": 9,
+    "question": "Is it okay for me to donate blood?",
+    "answer": "In healthcare settings across the United States, donated blood is a lifesaving, essential part of caring for patients. The need for donated blood is constant, and blood centers are open and in urgent need of donations. CDC encourages people who are well to continue to donate blood if they are able, even if they are practicing social distancing because of COVID-19. CDC is supporting blood centers by providing recommendations that will keep donors and staff safe. Examples of these recommendations include spacing donor chairs 6 feet apart, thoroughly adhering to environmental cleaning practices, and encouraging donors to make donation appointments ahead of time."
+  },
+  {
+    "id": 10,
+    "question": "Should contact lens wearers take special precautions to prevent Covid-19?",
+    "answer": "Currently, there is no evidence to suggest contact lens wearers are more at risk for acquiring COVID-19 than eyeglass wearers. Contact lens wearers should continue to practice safe contact lens wear and care hygiene habits to help prevent against transmission of any contact lens-related infections, such as always washing hands with soap and water before handling lenses. People who are healthy can continue to wear and care for their contact lenses as prescribed by their eye care professional."
+  },{
+    "id": 11,
+    "question": "Should I use soap and water or hand sanitizer to protect against Covid-19?",
+    "answer": "Handwashing is one of the best ways to protect yourself and your family from getting sick. Wash your hands often with soap and water for at least 20 seconds, especially after blowing your nose, coughing, or sneezing; going to the bathroom; and before eating or preparing food. If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol."
+  },{
+    "id": 12,
+    "question": "What cleaning products should I use to protect against Covid-19?",
+    "answer": "Clean frequently touched surfaces such as tables, doorknobs, light switches, countertops, handles, desks, phones, keyboards, toilets, faucets, and sinks. Cleaning with products containing soap or detergent reduces germs on surfaces and objects by removing contaminants and may weaken or damage some of the virus particles, which decreases risk of infection from surfaces. You may choose to also disinfect depending on certain conditions or everyday practices required by your home. To disinfect, most common Environmental Protection Agency-registered household disinfect ants will work. See CDC’s recommendations for household cleaning and disinfection."
+  }
+]

@@ -1,0 +1,19 @@
+[
+    
+  {
+    "id": 4,
+    "question": "How does the virus spread?",
+    "answer": "COVID-19 is thought to spread mainly through close contact from person to person, including between people who are physically near each other (within about 6 feet). People who are infected but do not show symptoms can also spread the virus to others. Cases of reinfection with COVID-19  have been reported but are rare. We are still learning about how the virus spreads and the severity of illness it causes. \n COVID-19 spreads very easily from person to person. How easily a virus spreads from person to person can vary. The virus that causes COVID-19 appears to spread more efficiently than influenza but not as efficiently as measles, which is among the most contagious viruses known to affect people."
+  },
+  {
+    "id": 5,
+    "question": "What is community spread?",
+    "answer": "Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected. Each health department determines community spread differently based on local conditions. For information on community spread in your area, please visit your local health department’s website."
+  },
+  {
+    "id": 6,
+    "question": "Can mosquitoes or ticks spread virus that causes Covid 19?",
+    "answer": "At this time, CDC has no data to suggest that this new coronavirus or other similar coronaviruses are spread by mosquitoes or ticks. The main way that COVID-19 spreads is from person to person."
+  }
+  
+]
